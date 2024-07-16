@@ -11,18 +11,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-        System.err.println("Esto es una linea");
-
     }
 }
